@@ -22,7 +22,7 @@ The dataset is sourced from https://www.dcc.fc.up.pt/~ltorgo/Regression/cal_hous
 
 
 ## Dependencies
-- Python (version X.X.X)
+- Python 
 - Jupyter Notebook
 - Pandas
 - NumPy
