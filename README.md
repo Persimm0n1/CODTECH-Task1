@@ -1,9 +1,9 @@
 # CODTECH-Task1
-#Name: Naman Sharma
-#Company: CODTECH IT SOLUTIONS
-#ID: CT8ML1749
-#Domain: Machine Learning
-#Durations: july to august 2024
+# Name: Naman Sharma
+# Company: CODTECH IT SOLUTIONS
+# ID: CT8ML1749
+# Domain: Machine Learning
+# Durations: july to august 2024
 
 # Linear Regression Analysis on California Housing Data
 
