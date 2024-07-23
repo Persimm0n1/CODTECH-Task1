@@ -59,7 +59,9 @@ The dataset is sourced from https://www.dcc.fc.up.pt/~ltorgo/Regression/cal_hous
    - Displaying the regression line fitted to the data points.
 
 4. **Model Evaluation:**
+   - Calculating metrics such as Mean Absolute Error (MAE) to evaluate model performance.
    - Calculating metrics such as Mean Squared Error (MSE) to evaluate model performance.
+   - Calculating metrics such as Root Mean Squared Error (RMSE) to evaluate model performance.
 
 ## Results
 The analysis demonstrates the relationship between various features and median house prices in California. The Linear Regression model provides insights into how these features influence housing values, offering a foundational understanding of predictive modeling in real estate.
