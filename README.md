@@ -1,9 +1,9 @@
 # CODTECH-Task1
-# Name: Naman Sharma
-# Company: CODTECH IT SOLUTIONS
-# ID: CT8ML1749
-# Domain: Machine Learning
-# Durations: july to august 2024
+## Name: Naman Sharma
+## Company: CODTECH IT SOLUTIONS
+## ID: CT8ML1749
+## Domain: Machine Learning
+## Durations: july to august 2024
 
 # Linear Regression Analysis on California Housing Data
 
@@ -38,8 +38,13 @@ The dataset is sourced from https://www.dcc.fc.up.pt/~ltorgo/Regression/cal_hous
 
 2. Install the required dependencies:
    ```
-   pip install -r requirements.txt
-   ```
+   pip install
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+  
 
 3. Open and run the `california_housing.ipynb` notebook in Jupyter to see the analysis and results.
 
