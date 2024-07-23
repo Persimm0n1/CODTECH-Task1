@@ -18,7 +18,7 @@ The California Housing dataset used in this project includes:
 The dataset is sourced from https://www.dcc.fc.up.pt/~ltorgo/Regression/cal_housing.html
 
 ## Files
-- **`california_housing.ipynb`**: Jupyter Notebook containing the Python code for data preprocessing, model training, and visualization.
+- **`Linear_Regression.ipynb`**: Jupyter Notebook containing the Python code for data preprocessing, model training, and visualization.
 
 
 ## Dependencies
