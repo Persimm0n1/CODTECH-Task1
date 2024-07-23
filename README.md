@@ -3,7 +3,7 @@
 ## Company: CODTECH IT SOLUTIONS
 ## ID: CT8ML1749
 ## Domain: Machine Learning
-## Durations: july to august 2024
+## Durations: July to August 2024
 
 # Linear Regression Analysis on California Housing Data
 
@@ -43,7 +43,7 @@ The dataset is sourced from https://www.dcc.fc.up.pt/~ltorgo/Regression/cal_hous
    !pip install Seaborn
 
 
-3. Open and run the `california_housing.ipynb` notebook in Jupyter to see the analysis and results.
+3. Open and run the `Linear_Regression.ipynb` notebook in Jupyter to see the analysis and results.
 
 ## Analysis
 ### Steps Covered:
