@@ -27,7 +27,6 @@ The dataset is sourced from https://www.dcc.fc.up.pt/~ltorgo/Regression/cal_hous
 - Pandas
 - NumPy
 - Matplotlib
-- Scikit-learn
 
 ## Setup
 1. Clone this repository:
@@ -38,13 +37,11 @@ The dataset is sourced from https://www.dcc.fc.up.pt/~ltorgo/Regression/cal_hous
 
 2. Install the required dependencies:
    ```
-   pip install
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-  
+   !pip install pandas
+   !pip install NumPy
+   !pip install Matplotlib
+   !pip install Seaborn
+
 
 3. Open and run the `california_housing.ipynb` notebook in Jupyter to see the analysis and results.
 
