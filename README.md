@@ -4,6 +4,9 @@
 ## ID: CT8ML1749
 ## Domain: Machine Learning
 ## Durations: July to August 2024
+## Mentor Details:
+## Name: Muzammil Ahmed
+## Contact: +91 96401 28015 
 
 # Linear Regression Analysis on California Housing Data
 
